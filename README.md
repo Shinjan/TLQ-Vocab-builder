@@ -1,13 +1,13 @@
 Web-App that can be used to learn vocabulary.
 
-How to play:
+**How to play**
 
 1. Go to this url: https://shinjan.github.io/TLQ-Vocab-builder/
 2. To load an existing set of words you can download "tlq_sets.json" available in this repo and import it in the app in "All Sets" tab. You can create a similar one  and import that as well. This is only needed once till the cahce is cleared.
 3. Start Learning and taking Quizes
  
 
-About the files:
+**For the developers**
 
 *index.html*: - Teach, Learn and Quiz is a web app for learning vocabulary. Which has following 3 modes:
 
