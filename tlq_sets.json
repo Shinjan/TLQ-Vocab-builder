@@ -1,0 +1,1054 @@
+{
+  "Charater-Traits": [
+  {
+    "word": "Active",
+    "meaning": "Involving movement or doing things.",
+    "sentence": "He lives a very active lifestyle, playing sports and hiking every weekend."
+  },
+  {
+    "word": "Admirable",
+    "meaning": "Deserving respect or approval.",
+    "sentence": "Her dedication to the charity project was truly admirable."
+  },
+  {
+    "word": "Adventurous",
+    "meaning": "Willing to take risks or try out new and exciting experiences.",
+    "sentence": "The adventurous explorer set off to find the lost city in the jungle."
+  },
+  {
+    "word": "Affectionate",
+    "meaning": "Readily showing fondness or tenderness.",
+    "sentence": "Their golden retriever is an incredibly affectionate dog who loves to cuddle."
+  },
+  {
+    "word": "Aggressive",
+    "meaning": "Ready or likely to attack or confront.",
+    "sentence": "The company adopted an aggressive marketing strategy to gain market share."
+  },
+  {
+    "word": "Agreeable",
+    "meaning": "Pleasant, enjoyable, or willing to agree to something.",
+    "sentence": "She has an agreeable personality that makes her easy to work with."
+  },
+  {
+    "word": "Ambitious",
+    "meaning": "Having a strong desire and determination to succeed.",
+    "sentence": "The ambitious graduate aimed to become a CEO within ten years."
+  },
+  {
+    "word": "Appreciative",
+    "meaning": "Feeling or showing gratitude or pleasure.",
+    "sentence": "He was very appreciative of all the help he received after his surgery."
+  },
+  {
+    "word": "Argumentative",
+    "meaning": "Often arguing or ready to disagree.",
+    "sentence": "He is in an argumentative mood today, questioning every decision."
+  },
+  {
+    "word": "Arrogant",
+    "meaning": "Believing you are better or more important than others.",
+    "sentence": "His arrogant attitude made it difficult for him to make friends."
+  },
+  {
+    "word": "Athletic",
+    "meaning": "Physically strong, fit, and good at sports.",
+    "sentence": "She has an athletic build from years of swimming."
+  },
+  {
+    "word": "Attentive",
+    "meaning": "Paying close attention to something or someone.",
+    "sentence": "The attentive student took detailed notes during the lecture."
+  },
+  {
+    "word": "Babyish",
+    "meaning": "Behaving in a silly or immature way, like a young child.",
+    "sentence": "Throwing a tantrum over a small issue is very babyish."
+  },
+  {
+    "word": "Bold",
+    "meaning": "Confident and courageous; willing to take risks.",
+    "sentence": "It was a bold move to quit his job and start his own business."
+  },
+  {
+    "word": "Bossy",
+    "meaning": "Fond of giving people orders; domineering.",
+    "sentence": "My older sister can be bossy, always telling me what to do."
+  },
+  {
+    "word": "Bratty",
+    "meaning": "Behaving in an ill-mannered, spoiled, or annoying way.",
+    "sentence": "The bratty child screamed when he didn't get the toy he wanted."
+  },
+  {
+    "word": "Brave",
+    "meaning": "Ready to face and endure danger or pain; showing courage.",
+    "sentence": "The brave firefighter ran into the burning building to save the cat."
+  },
+  {
+    "word": "Brilliant",
+    "meaning": "Exceptionally clever, talented, or impressive.",
+    "sentence": "She came up with a brilliant solution to the complex problem."
+  },
+  {
+    "word": "Calm",
+    "meaning": "Not showing or feeling nervousness, anger, or other strong emotions.",
+    "sentence": "He remained calm even during the emergency."
+  },
+  {
+    "word": "Capable",
+    "meaning": "Having the ability, fitness, or quality necessary to do something.",
+    "sentence": "We need to hire a capable manager to lead the team."
+  },
+  {
+    "word": "Careful",
+    "meaning": "Making sure to avoid potential danger, mishap, or harm.",
+    "sentence": "Please be careful when you carry those glass dishes."
+  },
+  {
+    "word": "Careless",
+    "meaning": "Not giving sufficient attention or thought to avoiding harm or mistakes.",
+    "sentence": "His careless driving resulted in a minor accident."
+  },
+  {
+    "word": "Charismatic",
+    "meaning": "Having a compelling charm that inspires devotion in others.",
+    "sentence": "The politician was a charismatic speaker who easily won over the crowd."
+  },
+  {
+    "word": "Charming",
+    "meaning": "Pleasant or attractive.",
+    "sentence": "He has a charming smile that puts everyone at ease."
+  },
+  {
+    "word": "Cheerful",
+    "meaning": "Noticeably happy and optimistic.",
+    "sentence": "She always has a cheerful greeting for her coworkers in the morning."
+  },
+  {
+    "word": "Childish",
+    "meaning": "Silly and immature; appropriate for a child.",
+    "sentence": "It's childish to refuse to talk to someone just because you disagree."
+  },
+  {
+    "word": "Clever",
+    "meaning": "Quick to understand, learn, and devise or apply ideas.",
+    "sentence": "The clever fox found a way to steal the food."
+  },
+  {
+    "word": "Clumsy",
+    "meaning": "Awkward in movement or in handling things.",
+    "sentence": "He was so clumsy that he tripped over the rug and spilled his drink."
+  },
+  {
+    "word": "Cold-hearted",
+    "meaning": "Lacking affection or sympathy.",
+    "sentence": "Only a cold-hearted person would abandon a pet."
+  },
+  {
+    "word": "Compassionate",
+    "meaning": "Feeling or showing sympathy and concern for others.",
+    "sentence": "The nurse was very compassionate toward her patients."
+  },
+  {
+    "word": "Competitive",
+    "meaning": "Having a strong desire to win or be more successful than others.",
+    "sentence": "He has a competitive streak and hates to lose at any game."
+  },
+  {
+    "word": "Conceited",
+    "meaning": "Excessively proud of oneself; vain.",
+    "sentence": "He's so conceited that he thinks every person he meets is in love with him."
+  },
+  {
+    "word": "Confident",
+    "meaning": "Feeling or showing certainty about oneself or a situation.",
+    "sentence": "She felt confident that she would pass the exam."
+  },
+  {
+    "word": "Conscientious",
+    "meaning": "Wishing to do one's work or duty well and thoroughly.",
+    "sentence": "A conscientious student always completes their homework on time."
+  },
+  {
+    "word": "Considerate",
+    "meaning": "Careful not to cause inconvenience or hurt to others.",
+    "sentence": "It was very considerate of you to bring me soup while I was sick."
+  },
+  {
+    "word": "Cooperative",
+    "meaning": "Involving mutual assistance in working toward a common goal.",
+    "sentence": "The children were cooperative and cleaned up the classroom together."
+  },
+  {
+    "word": "Courageous",
+    "meaning": "Not deterred by danger or pain; brave.",
+    "sentence": "The courageous soldier received a medal for his actions."
+  },
+  {
+    "word": "Courteous",
+    "meaning": "Polite, respectful, or considerate in manner.",
+    "sentence": "The hotel staff was very courteous and helpful."
+  },
+  {
+    "word": "Cowardly",
+    "meaning": "Lacking courage.",
+    "sentence": "It was cowardly of him to run away and leave his friends to face the trouble."
+  },
+  {
+    "word": "Creative",
+    "meaning": "Relating to or involving imagination or original ideas.",
+    "sentence": "The artist is very creative and always comes up with unique designs."
+  },
+  {
+    "word": "Critical",
+    "meaning": "Expressing disapproving comments or judgments.",
+    "sentence": "He is very critical of his own work and is never satisfied."
+  },
+  {
+    "word": "Cross",
+    "meaning": "Annoyed or angry.",
+    "sentence": "My father was cross with me for breaking the vase."
+  },
+  {
+    "word": "Cruel",
+    "meaning": "Willfully causing pain or suffering to others.",
+    "sentence": "The villain in the story was a cruel man."
+  },
+  {
+    "word": "Curious",
+    "meaning": "Eager to know or learn something.",
+    "sentence": "The cat was curious about the new box in the room."
+  },
+  {
+    "word": "Dangerous",
+    "meaning": "Able or likely to cause harm or injury.",
+    "sentence": "Swimming in the river after a storm is extremely dangerous."
+  },
+  {
+    "word": "Daring",
+    "meaning": "Adventurous and bold.",
+    "sentence": "The daring stunt pilot performed a loop-the-loop."
+  },
+  {
+    "word": "Deceitful",
+    "meaning": "Behaving in a dishonest or misleading way.",
+    "sentence": "The deceitful salesman lied about the car's history."
+  },
+  {
+    "word": "Dedicated",
+    "meaning": "Devoted to a task or purpose.",
+    "sentence": "She is a dedicated teacher who spends extra hours helping her students."
+  },
+  {
+    "word": "Dependable",
+    "meaning": "Trustworthy and reliable.",
+    "sentence": "He is a dependable friend who will always be there for you."
+  },
+  {
+    "word": "Determined",
+    "meaning": "Having made a firm decision and being resolved not to change it.",
+    "sentence": "She was determined to finish the marathon, even with an injury."
+  },
+  {
+    "word": "Disciplined",
+    "meaning": "Showing a controlled form of behavior or way of working.",
+    "sentence": "A disciplined athlete trains every single day."
+  },
+  {
+    "word": "Dishonest",
+    "meaning": "Behaving or prepared to behave in an untrustworthy or fraudulent way.",
+    "sentence": "It was dishonest of him to take credit for his colleague's work."
+  },
+  {
+    "word": "Disloyal",
+    "meaning": "Failing to be loyal to a person, country, or organization.",
+    "sentence": "The king punished the disloyal knights who betrayed him."
+  },
+  {
+    "word": "Disrespectful",
+    "meaning": "Showing a lack of respect; impolite.",
+    "sentence": "Talking back to the teacher is disrespectful."
+  },
+  {
+    "word": "Distractible",
+    "meaning": "Easily diverted from a task or focus.",
+    "sentence": "He is very distractible and finds it hard to study in a noisy room."
+  },
+  {
+    "word": "Easygoing",
+    "meaning": "Relaxed and tolerant in approach or manner.",
+    "sentence": "He has an easygoing personality and rarely gets upset."
+  },
+  {
+    "word": "Educated",
+    "meaning": "Having been taught or having learned a lot.",
+    "sentence": "She is a highly educated individual with three university degrees."
+  },
+  {
+    "word": "Efficient",
+    "meaning": "Achieving maximum productivity with minimum wasted effort.",
+    "sentence": "The new software is much more efficient than the old version."
+  },
+  {
+    "word": "Energetic",
+    "meaning": "Showing or involving great activity or vitality.",
+    "sentence": "The puppies were energetic and ran around the yard all day."
+  },
+  {
+    "word": "Enthusiastic",
+    "meaning": "Having or showing intense and eager enjoyment or interest.",
+    "sentence": "She was very enthusiastic about her new project."
+  },
+  {
+    "word": "Evil",
+    "meaning": "Profoundly immoral and wicked.",
+    "sentence": "The fairytale featured an evil witch who cursed the princess."
+  },
+  {
+    "word": "Fair",
+    "meaning": "Treating people equally without favoritism or discrimination.",
+    "sentence": "A good referee must be fair to both teams."
+  },
+  {
+    "word": "Faithful",
+    "meaning": "Remaining loyal and steadfast.",
+    "sentence": "His faithful dog waited at the door for him to come home every day."
+  },
+  {
+    "word": "Fearless",
+    "meaning": "Lacking fear; brave.",
+    "sentence": "The fearless tightrope walker crossed between the two skyscrapers."
+  },
+  {
+    "word": "Fidgety",
+    "meaning": "Restless or uneasy; making small, nervous movements.",
+    "sentence": "The child became fidgety during the long car ride."
+  },
+  {
+    "word": "Fierce",
+    "meaning": "Having or displaying an intense or ferocious aggressiveness.",
+    "sentence": "A fierce lion protected its cubs from the hyenas."
+  },
+  {
+    "word": "Flexible",
+    "meaning": "Able to change or be changed easily according to the situation.",
+    "sentence": "Our travel plans are flexible, so we can leave on Friday or Saturday."
+  },
+  {
+    "word": "Focused",
+    "meaning": "Directing a lot of attention to one particular thing.",
+    "sentence": "He was so focused on his book that he didn't hear the phone ring."
+  },
+  {
+    "word": "Foolish",
+    "meaning": "Lacking good sense or judgment; unwise.",
+    "sentence": "It was foolish to go hiking without any water."
+  },
+  {
+    "word": "Forgetful",
+    "meaning": "Apt or likely to forget.",
+    "sentence": "He has become more forgetful as he's gotten older."
+  },
+  {
+    "word": "Forgiving",
+    "meaning": "Ready and willing to pardon.",
+    "sentence": "She has a forgiving nature and doesn't hold grudges."
+  },
+  {
+    "word": "Friendly",
+    "meaning": "Kind and pleasant.",
+    "sentence": "The new neighbors are very friendly and brought us a pie."
+  },
+  {
+    "word": "Fun-loving",
+    "meaning": "Liking to have fun; lighthearted.",
+    "sentence": "He is a fun-loving person who is always the life of the party."
+  },
+  {
+    "word": "Funny",
+    "meaning": "Causing laughter or amusement.",
+    "sentence": "The comedian told a funny joke that made everyone laugh."
+  },
+  {
+    "word": "Generous",
+    "meaning": "Showing a readiness to give more of something (like money or time) than is necessary.",
+    "sentence": "It was generous of him to donate so much money to the shelter."
+  },
+  {
+    "word": "Gentle",
+    "meaning": "Having or showing a mild, kind, or tender temperament.",
+    "sentence": "You have to be gentle when you hold the new baby."
+  },
+  {
+    "word": "Glamorous",
+    "meaning": "Attractive in an exciting and special way.",
+    "sentence": "The actress looked glamorous as she walked the red carpet."
+  },
+  {
+    "word": "Gracious",
+    "meaning": "Courteous, kind, and pleasant.",
+    "sentence": "She was a gracious host, making sure all her guests were comfortable."
+  },
+  {
+    "word": "Greedy",
+    "meaning": "Having an intense and selfish desire for something, especially wealth or food.",
+    "sentence": "The greedy man tried to take all the cookies for himself."
+  },
+  {
+    "word": "Grouchy",
+    "meaning": "Irritable and bad-tempered; complaining.",
+    "sentence": "He is always grouchy in the morning before he has his coffee."
+  },
+  {
+    "word": "Guilty",
+    "meaning": "Responsible for a specified wrongdoing or offense.",
+    "sentence": "The jury found the defendant guilty of the crime."
+  },
+  {
+    "word": "Gullible",
+    "meaning": "Easily persuaded to believe something; credulous.",
+    "sentence": "He is so gullible that he believed my story about a flying pig."
+  },
+  {
+    "word": "Hardworking",
+    "meaning": "Tending to work with energy and commitment; diligent.",
+    "sentence": "She is a hardworking employee who always meets her deadlines."
+  },
+  {
+    "word": "Hateful",
+    "meaning": "Arousing or deserving hate.",
+    "sentence": "Spreading rumors about people is a hateful thing to do."
+  },
+  {
+    "word": "Helpful",
+    "meaning": "Giving or ready to give aid.",
+    "sentence": "The librarian was very helpful in finding the books I needed."
+  },
+  {
+    "word": "Honest",
+    "meaning": "Free of deceit; truthful and sincere.",
+    "sentence": "It's important to be honest and always tell the truth."
+  },
+  {
+    "word": "Honorable",
+    "meaning": "Bringing or deserving respect and high regard.",
+    "sentence": "Admitting his mistake was an honorable thing to do."
+  },
+  {
+    "word": "Hopeful",
+    "meaning": "Feeling or inspiring optimism about a future event.",
+    "sentence": "She is hopeful that she will get the job."
+  },
+  {
+    "word": "Hopeless",
+    "meaning": "Feeling or causing despair.",
+    "sentence": "The situation seemed hopeless, but they refused to give up."
+  },
+  {
+    "word": "Humble",
+    "meaning": "Having or showing a modest or low estimate of one's own importance.",
+    "sentence": "Despite his great success, he remained a humble and kind man."
+  },
+  {
+    "word": "Humorous",
+    "meaning": "Causing laughter and amusement; funny.",
+    "sentence": "He wrote a humorous story about his vacation."
+  },
+  {
+    "word": "Ignorant",
+    "meaning": "Lacking knowledge or awareness in general.",
+    "sentence": "He was ignorant of the company's new policies."
+  },
+  {
+    "word": "Imaginative",
+    "meaning": "Having or showing creativity or resourcefulness.",
+    "sentence": "The child drew an imaginative picture of a dragon with six legs."
+  },
+  {
+    "word": "Immature",
+    "meaning": "Not fully developed; having or showing emotional or intellectual development appropriate to someone younger.",
+    "sentence": "Giggling during a serious meeting is immature behavior."
+  },
+  {
+    "word": "Impatient",
+    "meaning": "Having or showing a tendency to be quickly irritated or provoked.",
+    "sentence": "He grew impatient while waiting in the long line."
+  },
+  {
+    "word": "Impolite",
+    "meaning": "Not having or showing good manners; rude.",
+    "sentence": "It is impolite to talk with your mouth full."
+  },
+  {
+    "word": "Impulsive",
+    "meaning": "Acting or done without forethought.",
+    "sentence": "She made an impulsive decision to buy the expensive shoes."
+  },
+  {
+    "word": "Inactive",
+    "meaning": "Not engaging in or involving any physical or mental activity.",
+    "sentence": "The volcano has been inactive for over a hundred years."
+  },
+  {
+    "word": "Inconsiderate",
+    "meaning": "Thoughtlessly causing hurt or inconvenience to others.",
+    "sentence": "Playing loud music late at night is inconsiderate to your neighbors."
+  },
+  {
+    "word": "Independent",
+    "meaning": "Not influenced or controlled by others; self-sufficient.",
+    "sentence": "Cats are known for being very independent animals."
+  },
+  {
+    "word": "Insensitive",
+    "meaning": "Showing or feeling no concern for others' feelings.",
+    "sentence": "His insensitive comments about her new haircut were hurtful."
+  },
+  {
+    "word": "Insincere",
+    "meaning": "Not expressing genuine feelings.",
+    "sentence": "Her insincere apology only made the situation worse."
+  },
+  {
+    "word": "Insistent",
+    "meaning": "Demanding something forcefully, not accepting refusal.",
+    "sentence": "He was insistent on paying for the meal, even though I offered."
+  },
+  {
+    "word": "Insulting",
+    "meaning": "Disrespectful or scornfully abusive.",
+    "sentence": "Her insulting remarks about his new haircut hurt his feelings."
+  },
+  {
+    "word": "Intelligent",
+    "meaning": "Having or showing a high capacity for learning, reasoning, and understanding.",
+    "sentence": "Dolphins are highly intelligent animals that can learn complex tasks."
+  },
+  {
+    "word": "Intolerant",
+    "meaning": "Not willing to accept views, beliefs, or behavior that differ from one's own.",
+    "sentence": "The leader was intolerant of any criticism from his advisors."
+  },
+  {
+    "word": "Irrational",
+    "meaning": "Not logical or reasonable.",
+    "sentence": "Her deep fear of spiders was completely irrational."
+  },
+  {
+    "word": "Irresponsible",
+    "meaning": "Not showing a proper sense of responsibility.",
+    "sentence": "It was irresponsible to leave the young children home alone."
+  },
+  {
+    "word": "Kind",
+    "meaning": "Having or showing a friendly, generous, and considerate nature.",
+    "sentence": "It was very kind of you to help me carry my groceries."
+  },
+  {
+    "word": "Knowledgeable",
+    "meaning": "Having or showing information, understanding, or skill gained through experience or education.",
+    "sentence": "She is very knowledgeable about antique furniture."
+  },
+  {
+    "word": "Lazy",
+    "meaning": "Unwilling to use energy or effort.",
+    "sentence": "He felt too lazy to get off the couch all afternoon."
+  },
+  {
+    "word": "Logical",
+    "meaning": "Characterized by or capable of clear, sound reasoning.",
+    "sentence": "She presented a logical argument that convinced everyone."
+  },
+  {
+    "word": "Loving",
+    "meaning": "Feeling or showing great care and affection.",
+    "sentence": "He comes from a very loving and supportive family."
+  },
+  {
+    "word": "Loyal",
+    "meaning": "Giving or showing firm and constant support or allegiance.",
+    "sentence": "His loyal dog never left his side."
+  },
+  {
+    "word": "Lucky",
+    "meaning": "Having, bringing, or resulting from good fortune.",
+    "sentence": "She felt lucky to find a parking spot right in front of the store."
+  },
+  {
+    "word": "Mannered",
+    "meaning": "Behaving in a specified way (often used as 'well-mannered' or 'ill-mannered').",
+    "sentence": "The children were polite and well-mannered during the dinner party."
+  },
+  {
+    "word": "Mature",
+    "meaning": "Behaving in a sensible, adult way.",
+    "sentence": "She is very mature for her age and handles problems calmly."
+  },
+  {
+    "word": "Mean",
+    "meaning": "Unkind, spiteful, or unfair.",
+    "sentence": "It was mean to laugh when he fell down."
+  },
+  {
+    "word": "Meticulous",
+    "meaning": "Showing great attention to detail; very careful and precise.",
+    "sentence": "The artist was meticulous, spending hours on a single brushstroke."
+  },
+  {
+    "word": "Modest",
+    "meaning": "Not overly proud or confident; not wanting to draw attention to one's abilities.",
+    "sentence": "Despite his success, he remained a modest and humble person."
+  },
+  {
+    "word": "Moody",
+    "meaning": "Having unpredictable changes of mood, especially sudden bouts of gloominess.",
+    "sentence": "He's been very moody and quiet all day."
+  },
+  {
+    "word": "Mysterious",
+    "meaning": "Difficult or impossible to understand, explain, or identify.",
+    "sentence": "A mysterious stranger left a package at the door."
+  },
+  {
+    "word": "Noisy",
+    "meaning": "Making or given to making a lot of noise.",
+    "sentence": "The restaurant was too noisy to have a conversation."
+  },
+  {
+    "word": "Nosy",
+    "meaning": "Showing too much curiosity about other people's affairs.",
+    "sentence": "Her nosy neighbor was always peeking through the curtains."
+  },
+  {
+    "word": "Obedient",
+    "meaning": "Willing to comply with orders and requests.",
+    "sentence": "The obedient dog sat, stayed, and came when called."
+  },
+  {
+    "word": "Obnoxious",
+    "meaning": "Extremely unpleasant; offensive.",
+    "sentence": "He was being loud and obnoxious at the party."
+  },
+  {
+    "word": "Observant",
+    "meaning": "Quick to notice things.",
+    "sentence": "The observant detective noticed the clue that everyone else had missed."
+  },
+  {
+    "word": "Optimistic",
+    "meaning": "Hopeful and confident about the future.",
+    "sentence": "She remained optimistic despite the challenges."
+  },
+  {
+    "word": "Organized",
+    "meaning": "Arranged or structured in a systematic way; efficient.",
+    "sentence": "His desk is perfectly organized, with every pen in its place."
+  },
+  {
+    "word": "Paranoid",
+    "meaning": "Feeling unreasonably anxious or suspicious that others are trying to harm you.",
+    "sentence": "He became paranoid that his coworkers were talking about him."
+  },
+  {
+    "word": "Passionate",
+    "meaning": "Having, showing, or caused by strong feelings or beliefs.",
+    "sentence": "She is a passionate advocate for animal rights."
+  },
+  {
+    "word": "Patient",
+    "meaning": "Able to accept or tolerate delays, problems, or suffering without becoming annoyed.",
+    "sentence": "You'll have to be patient; the doctor is running late."
+  },
+  {
+    "word": "Peaceful",
+    "meaning": "Free from disturbance; tranquil.",
+    "sentence": "We had a peaceful afternoon reading by the lake."
+  },
+  {
+    "word": "Perseverant",
+    "meaning": "Continuing in a course of action even in the face of difficulty.",
+    "sentence": "The perseverant athlete trained every day, rain or shine."
+  },
+  {
+    "word": "Persistent",
+    "meaning": "Continuing firmly in a course of action in spite of difficulty or opposition.",
+    "sentence": "A persistent salesman kept calling, even after I said no."
+  },
+  {
+    "word": "Pessimistic",
+    "meaning": "Tending to see the worst aspect of things or believe that the worst will happen.",
+    "sentence": "He has a pessimistic view of the future."
+  },
+  {
+    "word": "Picky",
+    "meaning": "Fussy and hard to please.",
+    "sentence": "Her son is a picky eater and will only eat chicken nuggets."
+  },
+  {
+    "word": "Pleasant",
+    "meaning": "Giving a sense of happy satisfaction or enjoyment.",
+    "sentence": "We had a pleasant dinner with our new neighbors."
+  },
+  {
+    "word": "Polite",
+    "meaning": "Having or showing behavior that is respectful and considerate of other people.",
+    "sentence": "It is polite to say 'please' and 'thank you'."
+  },
+  {
+    "word": "Popular",
+    "meaning": "Liked, admired, or enjoyed by many people.",
+    "sentence": "That song was very popular last summer."
+  },
+  {
+    "word": "Precise",
+    "meaning": "Marked by exactness and accuracy of expression or detail.",
+    "sentence": "We need the precise measurements before we cut the wood."
+  },
+  {
+    "word": "Protective",
+    "meaning": "Having or showing a strong wish to keep someone or something safe from harm.",
+    "sentence": "The mother bear was very protective of her cubs."
+  },
+  {
+    "word": "Proud",
+    "meaning": "Feeling deep pleasure or satisfaction as a result of one's own achievements or qualities.",
+    "sentence": "She felt proud after graduating at the top of her class."
+  },
+  {
+    "word": "Quick",
+    "meaning": "Moving fast or doing something in a short time.",
+    "sentence": "We ate a quick lunch before heading back to work."
+  },
+  {
+    "word": "Quiet",
+    "meaning": "Making little or no noise.",
+    "sentence": "The library is a quiet place to study."
+  },
+  {
+    "word": "Rambunctious",
+    "meaning": "Uncontrollably exuberant; boisterous.",
+    "sentence": "A group of rambunctious children were running around the playground."
+  },
+  {
+    "word": "Relaxed",
+    "meaning": "Free from tension and anxiety.",
+    "sentence": "He felt very relaxed after his vacation."
+  },
+  {
+    "word": "Reliable",
+    "meaning": "Consistently good in quality or performance; able to be trusted.",
+    "sentence": "She is a reliable employee who always finishes her work on time."
+  },
+  {
+    "word": "Respectful",
+    "meaning": "Feeling or showing deference and respect.",
+    "sentence": "He is always respectful to his elders."
+  },
+  {
+    "word": "Responsible",
+    "meaning": "Having an obligation to do something, or having control over or care for someone.",
+    "sentence": "He is responsible for locking the store at night."
+  },
+  {
+    "word": "Restless",
+    "meaning": "Unable to rest or relax as a result of anxiety or boredom.",
+    "sentence": "The audience grew restless during the long speech."
+  },
+  {
+    "word": "Rowdy",
+    "meaning": "Noisy and disorderly.",
+    "sentence": "The bar became rowdy as the game reached its final minutes."
+  },
+  {
+    "word": "Rude",
+    "meaning": "Offensively impolite or ill-mannered.",
+    "sentence": "It was rude to interrupt her while she was speaking."
+  },
+  {
+    "word": "Sarcastic",
+    "meaning": "Using irony in order to mock or convey contempt.",
+    "sentence": "His sarcastic reply made it clear he didn't believe me."
+  },
+  {
+    "word": "Sassy",
+    "meaning": "Lively, bold, and full of spirit; cheeky.",
+    "sentence": "She gave a sassy response to the reporter's question."
+  },
+  {
+    "word": "Secretive",
+    "meaning": "Inclined to conceal feelings and intentions or not to disclose information.",
+    "sentence": "He was very secretive about his past."
+  },
+  {
+    "word": "Self-reliant",
+    "meaning": "Reliant on one's own powers and resources rather than those of others.",
+    "sentence": "After living alone for years, she became very self-reliant."
+  },
+  {
+    "word": "Selfish",
+    "meaning": "Lacking consideration for others; concerned chiefly with one's own personal profit or pleasure.",
+    "sentence": "It was selfish of him to eat the whole cake."
+  },
+  {
+    "word": "Sensitive",
+    "meaning": "Quick to detect or respond to slight changes, signals, or influences; easily hurt or offended.",
+    "sentence": "She is very sensitive to criticism."
+  },
+  {
+    "word": "Serious",
+    "meaning": "Demanding or characterized by careful consideration or application; not cheerful or lighthearted.",
+    "sentence": "This is a serious matter that requires our full attention."
+  },
+  {
+    "word": "Shy",
+    "meaning": "Nervous or timid in the company of other people.",
+    "sentence": "The shy child hid behind his mother's leg."
+  },
+  {
+    "word": "Silly",
+    "meaning": "Having or showing a lack of common sense or judgment; absurd and foolish.",
+    "sentence": "We were laughing and making silly faces for the camera."
+  },
+  {
+    "word": "Sincere",
+    "meaning": "Free from pretense or deceit; proceeding from genuine feelings.",
+    "sentence": "Please accept my sincere apologies."
+  },
+  {
+    "word": "Skillful",
+    "meaning": "Having or showing skill.",
+    "sentence": "He is a skillful carpenter."
+  },
+  {
+    "word": "Sly",
+    "meaning": "Having or showing a cunning and deceitful nature.",
+    "sentence": "He gave a sly wink, as if he knew a secret."
+  },
+  {
+    "word": "Smart",
+    "meaning": "Having or showing a quick-witted intelligence.",
+    "sentence": "She was smart enough to figure out the puzzle."
+  },
+  {
+    "word": "Sneaky",
+    "meaning": "Furtive; sly.",
+    "sentence": "The sneaky cat stole a piece of fish from the counter."
+  },
+  {
+    "word": "Snobbish",
+    "meaning": "Behaving like a snob; looking down on those considered to be of inferior social class or intellect.",
+    "sentence": "He was snobbish and refused to talk to anyone he didn't know."
+  },
+  {
+    "word": "Sociable",
+    "meaning": "Willing to talk and engage in activities with other people; friendly.",
+    "sentence": "She is a sociable person who loves going to parties."
+  },
+  {
+    "word": "Spontaneous",
+    "meaning": "Performed or occurring as a result of a sudden inner impulse or inclination; not planned.",
+    "sentence": "We took a spontaneous road trip to the beach."
+  },
+  {
+    "word": "Stingy",
+    "meaning": "Unwilling to give or spend; ungenerous.",
+    "sentence": "He is too stingy to ever buy a round of drinks."
+  },
+  {
+    "word": "Strange",
+    "meaning": "Unusual or surprising; difficult to understand or explain.",
+    "sentence": "I heard a strange noise coming from the attic."
+  },
+  {
+    "word": "Strict",
+    "meaning": "Demanding that rules concerning behavior are obeyed and observed.",
+    "sentence": "Her parents are very strict about her curfew."
+  },
+  {
+    "word": "Strong",
+    "meaning": "Having the power to move heavy weights or perform other physically demanding tasks.",
+    "sentence": "He is strong enough to lift the heavy box."
+  },
+  {
+    "word": "Stubborn",
+    "meaning": "Having or showing grim resolve not to change one's attitude or position on something.",
+    "sentence": "The stubborn mule refused to move."
+  },
+  {
+    "word": "Studious",
+    "meaning": "Spending a lot of time studying or reading.",
+    "sentence": "He was a studious child who always had his nose in a book."
+  },
+  {
+    "word": "Superficial",
+    "meaning": "Existing or occurring at or on the surface; not deep or thorough.",
+    "sentence": "Their conversation was superficial, focusing only on the weather."
+  },
+  {
+    "word": "Sweet",
+    "meaning": "Having the pleasant taste characteristic of sugar or honey; pleasing in general.",
+    "sentence": "That was a very sweet thing for you to do."
+  },
+  {
+    "word": "Tactful",
+    "meaning": "Having or showing skill and sensitivity in dealing with others or with difficult issues.",
+    "sentence": "She gave a tactful answer to his inappropriate question."
+  },
+  {
+    "word": "Talented",
+    "meaning": "Having a natural aptitude or skill for something.",
+    "sentence": "She is a talented musician who plays three instruments."
+  },
+  {
+    "word": "Talkative",
+    "meaning": "Fond of or given to talking.",
+    "sentence": "My talkative seatmate told me his entire life story."
+  },
+  {
+    "word": "Tasteful",
+    "meaning": "Showing good aesthetic judgment or appropriate behavior.",
+    "sentence": "The room was decorated in a tasteful and elegant style."
+  },
+  {
+    "word": "Tenacious",
+    "meaning": "Tending to keep a firm hold of something; persisting in existence or a course of action.",
+    "sentence": "The tenacious reporter would not give up until she got the story."
+  },
+  {
+    "word": "Thoughtful",
+    "meaning": "Showing consideration for the needs of other people.",
+    "sentence": "It was very thoughtful of you to bring flowers."
+  },
+  {
+    "word": "Thoughtless",
+    "meaning": "Not showing consideration for the needs of other people.",
+    "sentence": "His thoughtless comment hurt her feelings."
+  },
+  {
+    "word": "Thrifty",
+    "meaning": "Using money and other resources carefully and not wastefully.",
+    "sentence": "By being thrifty, she was able to save enough money for a vacation."
+  },
+  {
+    "word": "Timid",
+    "meaning": "Showing a lack of courage or confidence; easily frightened.",
+    "sentence": "The timid kitten hid under the bed."
+  },
+  {
+    "word": "Tolerant",
+    "meaning": "Willing or able to accept behavior or opinions different from one's own.",
+    "sentence": "She has a tolerant attitude towards different cultures."
+  },
+  {
+    "word": "Touchy",
+    "meaning": "Oversensitive and irritable.",
+    "sentence": "He is very touchy about his recent breakup, so don't mention it."
+  },
+  {
+    "word": "Tough",
+    "meaning": "Strong enough to withstand adverse conditions or rough handling.",
+    "sentence": "He had a tough time, but he never gave up."
+  },
+  {
+    "word": "Trusting",
+    "meaning": "Inclined to believe in the reliability, truth, ability, or strength of someone or something.",
+    "sentence": "He has a very trusting nature and believes everything people tell him."
+  },
+  {
+    "word": "Trustworthy",
+    "meaning": "Able to be relied on as honest or truthful.",
+    "sentence": "She is a trustworthy friend who will never betray a secret."
+  },
+  {
+    "word": "Uncaring",
+    "meaning": "Not displaying warmth or sympathy.",
+    "sentence": "The new boss seemed uncaring about the employees' concerns."
+  },
+  {
+    "word": "Uncontrolled",
+    "meaning": "Not being under control; out of control.",
+    "sentence": "The fire raged uncontrolled through the forest."
+  },
+  {
+    "word": "Uncooperative",
+    "meaning": "Not willing to work with others.",
+    "sentence": "The uncooperative suspect refused to answer any questions."
+  },
+  {
+    "word": "Understanding",
+    "meaning": "Sympathetically aware of other people's feelings; tolerant and forgiving.",
+    "sentence": "My parents were very understanding when I told them I failed the test."
+  },
+  {
+    "word": "Unfriendly",
+    "meaning": "Not kind or pleasant.",
+    "sentence": "The waiter was unfriendly and seemed annoyed by our questions."
+  },
+  {
+    "word": "Unpredictable",
+    "meaning": "Not able to be foreseen or predicted.",
+    "sentence": "The weather in the mountains is very unpredictable."
+  },
+  {
+    "word": "Unreliable",
+    "meaning": "Not able to be relied upon.",
+    "sentence": "His car is old and unreliable; it breaks down constantly."
+  },
+  {
+    "word": "Unselfish",
+    "meaning": "Willing to put the needs or wishes of others before one's own.",
+    "sentence": "Her unselfish decision to donate her kidney saved her brother's life."
+  },
+  {
+    "word": "Useful",
+    "meaning": "Able to be used for a practical purpose or in several ways.",
+    "sentence": "This pocket knife is a very useful tool."
+  },
+  {
+    "word": "Valiant",
+    "meaning": "Possessing or showing courage or determination.",
+    "sentence": "The valiant knight charged at the dragon to save the princess."
+  },
+  {
+    "word": "Versatile",
+    "meaning": "Able to adapt or be adapted to many different functions or activities.",
+    "sentence": "A smartphone is a versatile device that can be used for many things."
+  },
+  {
+    "word": "Violent",
+    "meaning": "Using or involving physical force intended to hurt, damage, or kill.",
+    "sentence": "A violent storm knocked down trees and power lines."
+  },
+  {
+    "word": "Vulgar",
+    "meaning": "Lacking sophistication or good taste; unrefined.",
+    "sentence": "He told a vulgar joke that made everyone uncomfortable."
+  },
+  {
+    "word": "Warm-hearted",
+    "meaning": "Sympathetic and kind.",
+    "sentence": "She is a warm-hearted person who always helps those in need."
+  },
+  {
+    "word": "Weak",
+    "meaning": "Lacking physical strength and energy.",
+    "sentence": "He felt weak after being sick for a week."
+  },
+  {
+    "word": "Weird",
+    "meaning": "Suggesting something supernatural; uncanny or very strange.",
+    "sentence": "I had a weird dream last night."
+  },
+  {
+    "word": "Wise",
+    "meaning": "Having or showing experience, knowledge, and good judgment.",
+    "sentence": "My grandmother gave me some wise advice."
+  },
+  {
+    "word": "Witty",
+    "meaning": "Showing or characterized by quick and inventive verbal humor.",
+    "sentence": "She is known for her witty comments and clever comebacks."
+  }
+]
+}
